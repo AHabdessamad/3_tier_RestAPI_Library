@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC691B5-C164-4346-8916-19A6A0A74E09}|BookApiTesting\\BookApiTesting.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\bookapitesting\\testcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC691B5-C164-4346-8916-19A6A0A74E09}|BookApiTesting\\BookApiTesting.csproj|solutionrelative:bookapitesting\\testcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEA3208-42DE-4054-BDE0-7CCF5E3358AC}|BookApi\\BookApi.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEA3208-42DE-4054-BDE0-7CCF5E3358AC}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\dataaccesslayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2788967E-9087-48AA-8102-95107AA3A745}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\businesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2788967E-9087-48AA-8102-95107AA3A745}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2788967E-9087-48AA-8102-95107AA3A745}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\businesslogiclayer\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2788967E-9087-48AA-8102-95107AA3A745}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6B191-6775-4039-A0B8-EBAA6A99C4F1}|SharedDtos\\SharedDtos.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\shareddtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB6B191-6775-4039-A0B8-EBAA6A99C4F1}|SharedDtos\\SharedDtos.csproj|solutionrelative:shareddtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\dataaccesslayer\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\dataaccesslayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3760F1-730C-439E-96E5-7B5767904EBA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB6B191-6775-4039-A0B8-EBAA6A99C4F1}|SharedDtos\\SharedDtos.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\shareddtos\\shareddtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBB6B191-6775-4039-A0B8-EBAA6A99C4F1}|SharedDtos\\SharedDtos.csproj|solutionrelative:shareddtos\\shareddtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC691B5-C164-4346-8916-19A6A0A74E09}|BookApiTesting\\BookApiTesting.csproj|c:\\users\\abdessamad ah\\source\\repos\\libraryproject\\bookapitesting\\bookapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DC691B5-C164-4346-8916-19A6A0A74E09}|BookApiTesting\\BookApiTesting.csproj|solutionrelative:bookapitesting\\bookapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:31:11.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:40:29.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\BookService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:37:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\Services\\IBookService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:36:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\TestControllers.cs",
+              "RelativeDocumentMoniker": "BookApiTesting\\TestControllers.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\TestControllers.cs",
+              "RelativeToolTip": "BookApiTesting\\TestControllers.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:41:50.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:40:41.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "SharedDtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\BookDto.cs",
+              "RelativeToolTip": "SharedDtos\\BookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:32:40.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\Data.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Data\\Data.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\Data.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:26:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\Entities\\Book.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:11:58.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SharedDtos.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj",
+              "RelativeDocumentMoniker": "SharedDtos\\SharedDtos.csproj",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj",
+              "RelativeToolTip": "SharedDtos\\SharedDtos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T18:43:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookApiTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj",
+              "RelativeDocumentMoniker": "BookApiTesting\\BookApiTesting.csproj",
+              "ToolTip": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj",
+              "RelativeToolTip": "BookApiTesting\\BookApiTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T16:19:06.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
