@@ -32,3 +32,21 @@ C:\Users\Abdessamad AH\source\repos\LibraryProject\BusinessLogicLayer\obj\Debug\
 C:\Users\Abdessamad AH\source\repos\LibraryProject\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
 C:\Users\Abdessamad AH\source\repos\LibraryProject\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
 C:\Users\Abdessamad AH\source\repos\LibraryProject\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

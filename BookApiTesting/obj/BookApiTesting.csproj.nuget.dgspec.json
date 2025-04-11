@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj": {}
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApiTesting\\BookApiTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj": {
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApiTesting\\BookApiTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj",
+        "projectUniqueName": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApiTesting\\BookApiTesting.csproj",
         "projectName": "BookApiTesting",
-        "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\BookApiTesting.csproj",
-        "packagesPath": "C:\\Users\\Abdessamad AH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApiTesting\\obj\\",
+        "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApiTesting\\BookApiTesting.csproj",
+        "packagesPath": "C:\\Users\\aaithamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApiTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abdessamad AH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaithamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookAPI\\BookApi.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookAPI\\BookApi.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookAPI\\BookApi.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookAPI\\BookApi.csproj"
               },
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj"
               }
             }
           }
@@ -52,9 +52,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -97,24 +97,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\BookApi.csproj": {
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApi\\BookApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\BookApi.csproj",
+        "projectUniqueName": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApi\\BookApi.csproj",
         "projectName": "BookApi",
-        "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\BookApi.csproj",
-        "packagesPath": "C:\\Users\\Abdessamad AH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BookApi\\obj\\",
+        "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApi\\BookApi.csproj",
+        "packagesPath": "C:\\Users\\aaithamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BookApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abdessamad AH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaithamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -129,14 +129,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
               },
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj"
               }
             }
           }
@@ -149,9 +149,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -181,24 +181,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\Abdessamad AH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\BusinessLogicLayer\\obj\\",
+        "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\aaithamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abdessamad AH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaithamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -213,11 +213,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj"
               }
             }
           }
@@ -230,9 +230,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -253,24 +253,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Abdessamad AH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\aaithamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abdessamad AH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaithamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -285,8 +285,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj": {
-                "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj"
+              "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj": {
+                "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj"
               }
             }
           }
@@ -299,9 +299,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -322,24 +322,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj": {
+    "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj",
+        "projectUniqueName": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj",
         "projectName": "SharedDtos",
-        "projectPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\SharedDtos.csproj",
-        "packagesPath": "C:\\Users\\Abdessamad AH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdessamad AH\\source\\repos\\LibraryProject\\SharedDtos\\obj\\",
+        "projectPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\SharedDtos.csproj",
+        "packagesPath": "C:\\Users\\aaithamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aaithamou\\Desktop\\3_tier_RestAPI_Library\\SharedDtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Abdessamad AH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaithamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -364,9 +364,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -387,7 +387,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

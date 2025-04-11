@@ -28,3 +28,19 @@ C:\Users\Abdessamad AH\source\repos\LibraryProject\DataAccessLayer\obj\Debug\net
 C:\Users\Abdessamad AH\source\repos\LibraryProject\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 C:\Users\Abdessamad AH\source\repos\LibraryProject\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\Abdessamad AH\source\repos\LibraryProject\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

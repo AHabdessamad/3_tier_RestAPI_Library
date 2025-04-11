@@ -20,3 +20,15 @@ C:\Users\Abdessamad AH\source\repos\LibraryProject\SharedDtos\obj\Debug\net8.0\S
 C:\Users\Abdessamad AH\source\repos\LibraryProject\SharedDtos\obj\Debug\net8.0\refint\SharedDtos.dll
 C:\Users\Abdessamad AH\source\repos\LibraryProject\SharedDtos\obj\Debug\net8.0\SharedDtos.pdb
 C:\Users\Abdessamad AH\source\repos\LibraryProject\SharedDtos\obj\Debug\net8.0\ref\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\bin\Debug\net8.0\SharedDtos.deps.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.AssemblyInfoInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.AssemblyInfo.cs
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.csproj.CoreCompileInputs.cache
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.sourcelink.json
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\refint\SharedDtos.dll
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\SharedDtos.pdb
+C:\Users\aaithamou\Desktop\3_tier_RestAPI_Library\SharedDtos\obj\Debug\net8.0\ref\SharedDtos.dll

@@ -18,7 +18,7 @@ namespace BookApi.Controllers
         }
 
         [HttpGet]
-        public ActionResult<Response<IEnumerable<Book>>> GetAllBooks()
+        public IActionResult GetAllBooks()
         {
             try
             {
@@ -26,19 +26,19 @@ namespace BookApi.Controllers
 
                 if (books == null || !books.Any())
                 {
-                    return Response<IEnumerable<Book>>.Failure(404, "No books found");
+                    return BadRequest("Faild to fetch data") ;
                 }
 
-                return Response<IEnumerable<Book>>.Success(200,"Books retrieved successfully", books);
+                return Ok(books);
             }
             catch (Exception ex)
             {
-                return Response<IEnumerable<Book>>.Failure(500, $"Server error {ex.Message}");
+                return BadRequest($"Server error {ex.Message}");
             }
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Response<Book>> GetBookById(int id)
+        public IActionResult GetBookById(int id)
         {
             try
             {
@@ -47,40 +47,40 @@ namespace BookApi.Controllers
 
                 if (book == null)
                 {
-                    return Response<Book>.Failure(404, $"Book with id {id} Not Found");
+                    return BadRequest("Faild to fetch data");
                 }
 
-                return Response<Book>.Success( 200 ,"Book fetched successfully", book);
+                return Ok(book);
             }
             catch (Exception ex)
             {
-                return Response<Book>.Failure(500, $" Server error: {ex.Message}");
+                return BadRequest($"Server error {ex.Message}"); 
             }
         }
 
         [HttpGet("search")]
-        public ActionResult<Response<Book>> SearchByTitle(string title)
+        public IActionResult SearchByTitle(string title)
         {
             try
             {
                 if (string.IsNullOrEmpty(title))
                 {
-                    return Response<Book>.Failure(400, "Invalid Title");
+                    return BadRequest("Invalid Title");
                 }
 
                 var MatchedBook = _bookService.SearchByTitle(title);
 
                 if (MatchedBook == null)
                 {
-                    return Response<Book>.Failure(404, "Book  Not Found");
+                    return BadRequest("Book  Not Found");
                 }
 
-                return Response<Book>.Success(201, "Book created successfully", MatchedBook);
+                return Ok(MatchedBook);
 
             }
             catch (Exception ex)
             {
-                return Response<Book>.Failure(500, $"Server error: {ex.Message}");
+                return BadRequest($"Server error {ex.Message}");
             }
 
         }
@@ -112,48 +112,43 @@ namespace BookApi.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult<Response<Book>> UpdateBook(int id, [FromBody] BookDto bookDto)
+        public IActionResult UpdateBook(int id, [FromBody] BookDto bookDto)
         {
             try
             {
                 if (bookDto == null)
                 {
-                    return Response<Book>.Failure(400, "Invalid book data");
+                    return BadRequest("Invalid book data");
                 }
 
                 var updatedBook = _bookService.UpdateBook(id, bookDto);
 
                 if (updatedBook == null)
                 {
-                    return Response<Book>.Failure(401, $"Book with id {id} not found");
+                    return BadRequest($"Book with id {id} not found");
                 }
 
-                return Response<Book>.Success(200,"Book updated successfully", updatedBook);
+                return Ok(true)
+                ;
             }
             catch (Exception ex)
             {
-                return Response<Book>.Failure(500, $"Server Error: {ex.Message}");
+                return BadRequest($"Server Error: {ex.Message}");
             }
         }
 
         [HttpDelete("{id}")]
-        public ActionResult<Response<Book>> DeleteBook(int id)
+        public bool DeleteBook(int id)
         {
-            try
-            {
                 var deletionResult = _bookService.DeleteBook(id);
 
                 if (!deletionResult)
                 {
-                    return Response<Book>.Failure(404, $"Book with id {id} not found");
+                    return false;
                 }
 
-                return Response<Book>.Success(200, "Book deleted successfully", deletionResult);
-            }
-            catch (Exception ex)
-            {
-                return Response<Book>.Failure(500, $"Server error: {ex.Message}");
-            }
+                return true;
+            
         }
     }
 }

@@ -18,6 +18,7 @@ namespace DataAccessLayer.Data
                     Author = "Jon Skeet",
                     Price = 49.99,
                     ISBN = "38347001",
+                    NbrOfCopy= 5,
                     PublishDate = new DateTime(2023, 10, 1, 14, 30, 0,DateTimeKind.Utc)
                 },
            new Book()
@@ -54,6 +55,7 @@ namespace DataAccessLayer.Data
                     Author = "Erich Gamma & Richard Hel",
                     Price = 55.90,
                     ISBN = "389339001",
+                    NbrOfCopy = 4,
                     PublishDate = new DateTime(2023, 6, 5, 7, 15, 0, DateTimeKind.Utc)
                 }
 

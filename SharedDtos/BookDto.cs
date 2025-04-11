@@ -10,6 +10,8 @@ namespace SharedDtos
         [Required]
         string Author,
         [Required]
+        double Price,
+        [Required]
         DateTime PublishDate,
         [MaxLength(255)]
         string ISBN,
